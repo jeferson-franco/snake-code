@@ -13,7 +13,7 @@ Para implementar ela, primeiro coloque o seguinte código no seu arquivo README.
 
 Em seguida, vá em **Actions** e selecione **set up a workflow yourself**
 
-[...]
+![actions button](/imagem16.png "actions")
 
 E cole o código **main.yml** no editor de texto que irá abrir.
 
@@ -21,6 +21,6 @@ E cole o código **main.yml** no editor de texto que irá abrir.
 
 Clique em **Start commit** e **Commit new file**:
 
-[...]
+![start commit](/imagem17.png "commit")
 
 Prontinho! A cada 12 horas a animação será atualizada.
