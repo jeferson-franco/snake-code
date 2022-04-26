@@ -3,7 +3,7 @@
 Coloque uma animação de cobrinha “comendo” suas contribuições no grid! 
 Fornecida pelo [repositório snk](https://github.com/Platane/snk) ela fica dessa forma no seu perfil:
 
-![snake gif](/assets/imagem15.gif "Snake")
+![snake gif](/imagem15.gif "Snake")
 
 Para implementar ela, primeiro coloque o seguinte código no seu arquivo README.md:
 
