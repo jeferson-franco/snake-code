@@ -1,6 +1,7 @@
 # Animação de cobrinha
 
-Coloque uma animação de cobrinha “comendo” suas contribuições no grid! 
+Coloque uma animação de cobrinha “comendo” suas contribuições no grid!
+
 Fornecida pelo [repositório snk](https://github.com/Platane/snk) ela fica dessa forma no seu perfil:
 
 ![snake gif](/imagem15.gif "Snake")
