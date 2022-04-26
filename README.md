@@ -15,7 +15,7 @@ Em seguida, vá em **Actions** e selecione **set up a workflow yourself**
 
 ![actions button](/imagem16.png "actions")
 
-E cole o código **main.yml** no editor de texto que irá abrir.
+E cole o código [main.yml](/main.yml) no editor de texto que irá abrir.
 
 > Onde está **jeferson-franco** no código, coloque seu nome de usuário, caso contrário, pode dar erro.
 
